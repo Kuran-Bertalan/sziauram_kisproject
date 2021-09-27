@@ -4,3 +4,7 @@ A fejlesztés célja egy olyan program létrehozása, amely a raktározórendsze
 ## Jelenlegi helyzet:
 	Az elavult kézi dokumentációkat korszerűsíteni kellene, ezáltal tudjuk csökkenteni a hibafaktort.
 	Felgyorsítja a termékek nyomon követesének folyamatát valamit tárolási megoldását.
+## Vágyálom rendszer:
+	A célunk, hogy átláthatóak és nyomon követhetőek legyenek a termékek a raktár területén belül.
+	Le egyszerűsítsük a könyvelést, és eltöröljük a felesleges papírmunkát.
+	Amennyiben elfogy az adott termék, a program küldjünk nekünk erről értesítést, hogy mielőbb pótolni tudjuk a hiányt.
