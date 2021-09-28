@@ -12,3 +12,8 @@ A fejlesztés célja egy olyan program létrehozása, amely a raktározórendsze
     Lekérdezhető az adott termék mennyisége és helye a raktáron belül
 	Termékhiány esetén értesítés küldése az illetékes személynek.
 	Új termékek felvétele a programba.
+## Rendszerre vonatkozó törvény szabályok, ajánlások:
+	Az élelmiszereket és a vegyi árukat külön helyiségben kell raktározni.
+	Épületen kívül, szabad területen élelmiszert még átmenetileg sem szabad tárolni!
+	Az élelmiszer árukat a gyártótól a felhasználóig jellegüknek, összetételüknek megfelelően szakosítottan kell elhelyezni, tárolni!
+    A hűtött élelmiszert 0-(+5) °C fok közötti, illetve a gyártó által előírt hőfokon, a gyorsfagyaszott készítményeket-18 °C alatti, illetve a gyártó által meghatározott hőmérsékleten kell tárolni.
