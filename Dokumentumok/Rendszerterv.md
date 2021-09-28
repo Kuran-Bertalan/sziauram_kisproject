@@ -49,4 +49,20 @@
  - Törvényi előírások, szabványok
 	- GDPR követelményeinek való megfelelés
 
+## Funkcionális terv
+
+- Rendszerszereplők
+  - Raktáros
+  
+- Rendszerhasználati esetek és lefutásaik:
+  - Raktáros
+    * Adatok megtekintése
+    * Adatok hozzáadása, törlése, módosítása
+    * A rendszerhez való teljes hozzáférés
+
+- Menü hierarchiák
+  - Kezdőlap
+    * Raktár készlet
+    * Számlák
+
 
