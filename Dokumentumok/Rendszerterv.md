@@ -113,3 +113,10 @@ A user teszteket a fejlesztés végén végezzük el a funkciók kipróbálásá
  - A rendszer beüzemelésekor ajánlott egy hozzá szakértő emberre bízni a beüzemelést mivel a szerver elindításához szükség van némi hozzáértéshez.
 	Így elkerülve esetleges nem kívánatos hibák létre jöttét.
 
+## Karbantartási terv
+
+-Az alkalmazás folyamatos üzemeltetése és karbantartása, mely
+magában foglalja a programhibák elhárítását, a belső igények változása miatti
+módosításokat, valamint a környezeti feltételek változása miatt
+megfogalmazott program-, illetve állomány módosítási igényeket.
+
