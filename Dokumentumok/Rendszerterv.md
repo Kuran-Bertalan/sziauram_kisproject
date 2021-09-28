@@ -94,3 +94,8 @@ A program működése során a raktáros egy féle szerepkörben figyelhető meg
 	A kliensekkel JSON objektumokkal kommunikál.
  - Frontend
 	Az alkalmazás C#-ban,windows form keret rendszerrel készül.
+
+
+## Adatbázis terv
+
+A raktár szolgáltatáshoz készletkezelő készül.
