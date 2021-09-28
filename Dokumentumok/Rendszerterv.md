@@ -24,3 +24,5 @@
 
 -   Webfelület:
 -   C#
+
+## Rendszerterv 
