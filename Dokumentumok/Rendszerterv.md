@@ -99,3 +99,8 @@ A program működése során a raktáros egy féle szerepkörben figyelhető meg
 ## Adatbázis terv
 
 A raktár szolgáltatáshoz készletkezelő készül.
+
+
+## Implementációs terv
+Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
+
