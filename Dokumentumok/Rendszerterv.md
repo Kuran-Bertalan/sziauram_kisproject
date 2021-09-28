@@ -18,3 +18,9 @@
 -   felelősségek:
     -   scrum master: A Scrum mester felügyeli és megkönnyíti a folyamat fenntartását, segíti a csapatot, ha problémába ütközik, illetve felügyeli, hogy mindenki betartja-e a Scrum alapvető szabályait.
     -   junior fejlesztő: A projekt elkészítése.
+
+
+**Projekt munkások és felelősségeik**
+
+-   Webfelület:
+-   C#
