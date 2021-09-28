@@ -85,5 +85,7 @@ Szerver:
 
 - Komponensek: 
 
+## Absztrakt domain modell
+A program működése során a raktáros egy féle szerepkörben figyelhető meg. A raktáros képes polcokat foglalni, számlát kiállítani, illetve termékeket regisztrálni az adatbázisba.
 
 
