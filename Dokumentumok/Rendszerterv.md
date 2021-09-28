@@ -83,6 +83,7 @@ Szerver:
 
 - Operációs rendszer: Windows 7 vagy nagyobb
 
+- Komponensek: 
 
 
 
