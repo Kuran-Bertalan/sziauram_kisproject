@@ -26,3 +26,13 @@
 -   C#
 
 ## Rendszerterv 
+
+## Üzleti folyamatok modellje
+
+- Üzleti szereplők:
+  - Raktáros
+  
+- Üzleti folyamatok:
+  - Feladatok felvitele módosítása
+  - Adatbázis hozzáférés
+  - C# programozás hozzáférés
