@@ -65,4 +65,15 @@
     * Raktár készlet
     * Számlák
 
+## Fizikai környezet
+Kliens:
+   - Eszköz: Asztali számítógép
+
+  -  Operációs rendszer: Windows 7 vagy nagyobb
+
+    - Szükséges applikációk: Chrome böngésző
+
+    - Konfiguráció: Nem specifikus.
+
+
 
