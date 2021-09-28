@@ -8,3 +8,7 @@ A fejlesztés célja egy olyan program létrehozása, amely a raktározórendsze
     A célunk, hogy átláthatóak és nyomon követhetőek legyenek a termékek a raktár területén belül.
     Le egyszerűsítsük a könyvelést, és eltöröljük a felesleges papírmunkát.
     Amennyiben elfogy az adott termék, a program küldjünk nekünk erről értesítést, hogy mielőbb pótolni tudjuk a hiányt.
+## Funkcionális követelmények:
+    Lekérdezhető az adott termék mennyisége és helye a raktáron belül
+	Termékhiány esetén értesítés küldése az illetékes személynek.
+	Új termékek felvétele a programba.
