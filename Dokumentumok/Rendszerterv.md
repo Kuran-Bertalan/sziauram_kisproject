@@ -36,3 +36,17 @@
   - Feladatok felvitele módosítása
   - Adatbázis hozzáférés
   - C# programozás hozzáférés
+
+## Követelmények
+
+ - Funkcionális
+	- Webes környezetben való működés
+	- A foglalások és az ehhez tartozó adatok tárolása
+        - C# környezetben való működés
+ - Nem funkcionális
+	- Gyors működés, foglalások kilistázása
+	- Egyszerű, egyértelmű kezelés
+ - Törvényi előírások, szabványok
+	- GDPR követelményeinek való megfelelés
+
+
