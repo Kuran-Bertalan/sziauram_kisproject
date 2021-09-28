@@ -107,3 +107,9 @@ Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítj
 ## Tesztterv
 
 A user teszteket a fejlesztés végén végezzük el a funkciók kipróbálásával és dokumentálásával. Konténerizált szerverrel.
+
+## Telepítési terv
+
+ - A rendszer beüzemelésekor ajánlott egy hozzá szakértő emberre bízni a beüzemelést mivel a szerver elindításához szükség van némi hozzáértéshez.
+	Így elkerülve esetleges nem kívánatos hibák létre jöttét.
+
