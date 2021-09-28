@@ -75,5 +75,14 @@ Kliens:
 
     - Konfiguráció: Nem specifikus.
 
+Szerver:
+
+- Eszköz: Kliens
+
+- Specifikáció: Klienssel ekvivalens
+
+- Operációs rendszer: Windows 7 vagy nagyobb
+
+
 
 
