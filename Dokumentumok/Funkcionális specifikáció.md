@@ -13,3 +13,8 @@
 
 # Jelenlegi üzleti folyamatok modellje:
 	A XXI. században sajnos még mindig vannak, akik az ilyen jellegű adattárolást papír alapon kezelik. Ezen folyamatok egyszerűsítése és modernizálása célszerű lenne környezetvédelem és a munkafolyamat egyszerűsítése végett.
+
+# Igényelt üzleti folyamatok modellje:
+	Programunk célja, hogy leegyszerűsítsük egy raktárban tárolt termékek átláthatóságát és, hogy nyomon tudjuk követni melyik termékből mennyi áll rendelkezésünkre a raktárban és hol található az adott termék a raktárban.
+	A programot gyorsan és egyszerűen lehessen használni, adatok gyors hozzáadása és módosítása vagy törlése.
+	Célunk, hogyha egy termék elfogy akkor a program figyelmeztessen minket.
