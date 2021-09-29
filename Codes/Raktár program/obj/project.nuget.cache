@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuNax5Xo5F+yba4suujtlpDeGKOOmXW0N5vHghLkwP4Eu6XcE/KER+3r1VgMwlVOoLHQbKjsfilASatZqxMJdQ==",
+  "dgSpecHash": "wZ2Q5RwbihkAC8J9vvusFfrGQ/RKGbqIWEPm2LS7PhG3HaZILQIqiKKoOoGq+ALBwJ9RnRgp17HdF2LUqn8MaA==",
   "success": true,
-  "projectFilePath": "D:\\VS codes\\Raktár program\\Raktár program\\Raktár program.csproj",
+  "projectFilePath": "D:\\gitkraken repos\\AFP1_kisproject\\Codes\\Raktár program\\Raktár program.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jdomo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
   ],
