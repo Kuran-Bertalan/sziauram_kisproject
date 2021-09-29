@@ -18,3 +18,7 @@
 	Programunk célja, hogy leegyszerűsítsük egy raktárban tárolt termékek átláthatóságát és, hogy nyomon tudjuk követni melyik termékből mennyi áll rendelkezésünkre a raktárban és hol található az adott termék a raktárban.
 	A programot gyorsan és egyszerűen lehessen használni, adatok gyors hozzáadása és módosítása vagy törlése.
 	Célunk, hogyha egy termék elfogy akkor a program figyelmeztessen minket.
+
+# Használati esetek:
+Jegyzettömbben tárolt adatok:
+	Adatok hozzáadása, törlése, módosítása.
