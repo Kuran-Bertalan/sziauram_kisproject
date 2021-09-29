@@ -22,3 +22,6 @@
 # Használati esetek:
 Jegyzettömbben tárolt adatok:
 	Adatok hozzáadása, törlése, módosítása.
+
+# Követelmény lista:
+	Adatok hozzáadása, törlése, módosítása
