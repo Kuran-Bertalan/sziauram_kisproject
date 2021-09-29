@@ -25,3 +25,5 @@ Jegyzettömbben tárolt adatok:
 
 # Követelmény lista:
 	Adatok hozzáadása, törlése, módosítása
+
+# Kifejtés:
