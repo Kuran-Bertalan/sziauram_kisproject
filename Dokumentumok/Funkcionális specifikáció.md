@@ -31,3 +31,5 @@ Jegyzettömbben tárolt adatok:
 # Fogalomszótár:
 
 # Forgatókönyv:
+
+# Funkcionális-Követelmény megfeleltetés:
