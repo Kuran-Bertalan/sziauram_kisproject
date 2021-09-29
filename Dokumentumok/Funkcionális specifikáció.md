@@ -10,3 +10,6 @@
 # Jelenlegi helyzet:
 	Szeretnénk nyújtani egy egyszerűen használható raktár kezelő programot, ahol megkönnyítenénk a dolgozók feladatát az elavult kézi dokumentációval szemben.
 	Felgyorsítja a termékek nyomon követesének folyamatát valamit tárolási megoldását. 
+
+# Jelenlegi üzleti folyamatok modellje:
+	A XXI. században sajnos még mindig vannak, akik az ilyen jellegű adattárolást papír alapon kezelik. Ezen folyamatok egyszerűsítése és modernizálása célszerű lenne környezetvédelem és a munkafolyamat egyszerűsítése végett.
