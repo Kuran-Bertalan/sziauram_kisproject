@@ -29,3 +29,5 @@ Jegyzettömbben tárolt adatok:
 # Kifejtés:
 
 # Fogalomszótár:
+
+# Forgatókönyv:
