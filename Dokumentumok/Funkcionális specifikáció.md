@@ -27,3 +27,5 @@ Jegyzettömbben tárolt adatok:
 	Adatok hozzáadása, törlése, módosítása
 
 # Kifejtés:
+
+# Fogalomszótár:
