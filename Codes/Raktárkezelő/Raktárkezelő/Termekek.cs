@@ -54,6 +54,38 @@ namespace WindowsFormsApp1
             Otthon_Hobbi
         }
 
+        private Kategoria kateg;
 
+        public Kategoria Kateg
+        {
+            get { return kateg; }
+            private set
+            {
+                kateg = value;
+            }
+        }
+
+        private int db;
+
+        public int DB
+        {
+            get { return db; }
+            private set
+            {
+                if (value < 0)
+                    throw new Exception("A darabszám nem lehet kissebb mint 0-a.");
+                if (value > 500)
+                    throw new Exception("A termék nem lehet nagyobb mint 500.");
+                db = value;
+            }
+        }
+
+        public Termekek(string termekAzonosito, string nev, Kategoria kateg, int dB)
+        {
+            TermekAzonosito = termekAzonosito;
+            Nev = nev;
+            Kateg = kateg;
+            DB = dB;
+        }
     }
 }
