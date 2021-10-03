@@ -33,3 +33,5 @@ Jegyzettömbben tárolt adatok:
 # Forgatókönyv:
 
 # Funkcionális-Követelmény megfeleltetés:
+
+a
