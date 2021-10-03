@@ -37,6 +37,10 @@
   - Adatbázis hozzáférés
   - C# programozás hozzáférés
 
+
+
+![](képek/raktár.png)
+
 ## Követelmények
 
  - Funkcionális
