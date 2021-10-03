@@ -24,9 +24,36 @@ namespace WindowsFormsApp1
                 termekAzonosito = value;
             }
         }
+        private string nev;
 
-     
+        public string Nev
+        {
+            get { return nev; }
+            private set
+            {
+                if (value == null)
+                    throw new Exception("Adja meg a termék nevét.");
+                if (value.Length < 3)
+                    throw new Exception("Az név-nek minimum 3 karakter hosszunak kell lennie.");
+                nev = value;
+            }
+        }
 
-       
+        public enum Kategoria
+        {
+            Ruházat,
+            Zöldség_Gyümölcs,
+            Tejtermékek, Pékáru,
+            Hús_Hal_Felvágott,
+            Alapvető_élelmiszerek,
+            Fagyasztott_élelmiszerek,
+            Italok,
+            Alkohol,
+            Háztartás,
+            Szépségápolás,
+            Otthon_Hobbi
+        }
+
+
     }
 }
