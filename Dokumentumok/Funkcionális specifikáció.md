@@ -32,6 +32,9 @@ Adatok hozzáadása, törlése, módosítása.
 Adatok hozzáadása, törlése, módosítása
 
 # Kifejtés:
+- Adatok hozzáadása: A program megnyit egy új Form-os ablakot az ’’ Új termék hozzáadása’’ gombbal, és ezen az ablakon a szükséges adatok megadásával új terméket tud hozzáadni.
+- Adatok törlése: Az datagridview adatbázisban a kijelölt termékek a ’’Termékek törlése” gomb lenyomása után törlődjön a terméklistából és a datagridview-ból.
+- Adatok módosítása: A kijelölt elemnek a darbaszámát tudjuk növelni a ”Termékek bevitele” gombbal, valamint csökkenteni a darabszámot a ’’Termékek kivitele” gombbal. 
 
 # Fogalomszótár:
 
