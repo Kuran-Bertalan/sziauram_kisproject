@@ -15,7 +15,9 @@ Az élelmiszereket és a vegyi árukat külön helyiségben kell raktározni. É
 ## Igényelt üzleti folyamatok: 
  - A megrendelő kérésére minden munkás lekérheti a teljes raktárkészletet
 ## Követelménylista:
-
+ - Termék hozzáadása(azonosító, név, kategória, mennyiség)
+ - Termék módosítása daradbszám által 
+ - Termék törlése
 ## Fogalomtár:
  - Raktárkezelő program -- Bolti termékek tárolása egy raktárban
  - Új termék hozzáadása -- Új termék bevitele a táblázatba 
