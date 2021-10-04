@@ -1,0 +1,10 @@
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\bin\Debug\Raktárkezelő.exe.config
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\bin\Debug\Raktárkezelő.exe
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\bin\Debug\Raktárkezelő.pdb
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.csproj.AssemblyReference.cache
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.Form1.resources
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.Properties.Resources.resources
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.csproj.GenerateResource.cache
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.csproj.CoreCompileInputs.cache
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.exe
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.pdb
