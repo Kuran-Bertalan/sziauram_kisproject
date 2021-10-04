@@ -9,3 +9,6 @@ A célunk, hogy átláthatóak és nyomon követhetőek legyenek a termékek a r
 Lekérdezhető az adott termék mennyisége és helye a raktáron belül. Termékhiány esetén értesítés küldése az illetékes személynek. Új termékek felvétele a programba.
 ## Rendszerre vonatkozó törvény szabályok, ajánlások:
 Az élelmiszereket és a vegyi árukat külön helyiségben kell raktározni. Épületen kívül, szabad területen élelmiszert még átmenetileg sem szabad tárolni! Az élelmiszer árukat a gyártótól a felhasználóig jellegüknek összetételüknek megfelelően szakosítottan kell elhelyezni, tárolni! A hűtött élelmiszert 0-(+5) °C fok közötti, illetve a gyártó által előírt hőfokon, a gyorsfagyaszott készítményeket-18 °C alatti, illetve a gyártó által meghatározott hőmérsékleten kell tárolni.
+## Jelenlegi üzleti folyamatok modellje:
+ - A XXI. században sajnos még mindig sokan vannak, akik az ilyen jellegű munkákat papír alapon végzik. Ezek a megoldások nem túl környezetbarátok a mai világban
+ - A munkás lassan és nehezen látja át a komissziós listát papíron, ezzel párhuzamosan nő a munkavégzéshez szükséges idő
