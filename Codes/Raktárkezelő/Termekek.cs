@@ -70,7 +70,7 @@ namespace Raktárkezelő
         public int DB
         {
             get { return db; }
-            private set
+            set
             {
                 if (value < 0)
                     throw new Exception("A darabszám nem lehet kissebb mint 0-a.");

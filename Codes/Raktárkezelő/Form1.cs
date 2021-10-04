@@ -80,6 +80,40 @@ namespace Raktárkezelő
                 fajlKiir("termekek_Kiir.txt");
             }
         }
+        public void TermekKivitele()
+        {
+            int kivon = Convert.ToInt32(terKivitText.Text);
+            if (kivon > termek[dataGridView1.SelectedRows[0].Index].DB)
+            {
+                MessageBox.Show("Nincs ennyi termék a raktárban!", "Termék Kivitele");
+            }
+            else
+            {
+                for (int i = 0; i < termek.Count; i++)
+                {
+                    if (dataGridView1.SelectedRows[0].Index == i)
+                    {
+                        termek[i].DB -= kivon;
+                        break;
+                    }
+                }
+            }
+        }
+        private void terKivitButt_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan ki szeretné vinni a terméket?", "Termék Kivitele", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
 
+                TermekKivitele();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+                terKivitText = null;
+            }
+        }
     }
 }
