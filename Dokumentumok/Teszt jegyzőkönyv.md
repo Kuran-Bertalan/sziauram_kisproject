@@ -12,5 +12,5 @@
 |T6|Farkas Bálint|2021.09.23|A termék törlése után azonnali eltávolítás a datagridview-ból|A datagridview-ba kijelölt termék a termékek törlése gomb után törlődjön a listából és a datagridview-ból|A kiejlölt termék azonnali eltávolítása a datagridview-ból|1.0|
 |T7|Juhász Domonkos|2021.09.26|A kijelölt termék darabszámának hozzáadása a listához|Texboxba megadjuk a hozzáadni kívánt mennyiséget. Ezután kattintunk a termék bevitele gombra|A listában akijelölt termék darabszámának növelése|1.0|
 |T8|Bodó Zoltán|2021.09.28|A kijelölt termék darabszámának hozzáadása és azonnali növelése datagridview-ba|Texboxba megadjuk a hozzáadni kívánt mennyiséget. Ezután kattintunk a termék bevitele gombra és azonnali megjelenítés datagridview-ba|A módosított termék azonnali megjelenítése|1.0|
-|T9|Ardó Balázs|2021.10.01|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|T9|Ardó Balázs|2021.10.01|A kijelölt termék darabszámának kivétele a listából|Texboxba megadjuk a elvenni kívánt mennyiséget. Ezután kattintunk a termék kivitele gombra|A listában a kijelölt termék darabszámának csökkentése.|1.0|
 |T10|Farkas Bálint|2021.10.03|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
