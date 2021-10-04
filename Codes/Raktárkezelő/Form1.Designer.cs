@@ -89,6 +89,7 @@ namespace Raktárkezelő
             this.terhozzadButt.TabIndex = 15;
             this.terhozzadButt.Text = "Termék bevitele";
             this.terhozzadButt.UseVisualStyleBackColor = true;
+            this.terhozzadButt.Click += new System.EventHandler(this.terhozzadButt_Click_1);
             // 
             // terhozzAD
             // 
@@ -114,6 +115,7 @@ namespace Raktárkezelő
             this.terKivitButt.TabIndex = 12;
             this.terKivitButt.Text = "Termék kivitele";
             this.terKivitButt.UseVisualStyleBackColor = true;
+            this.terKivitButt.Click += new System.EventHandler(this.terKivitButt_Click_1);
             // 
             // terKivitText
             // 
@@ -145,6 +147,7 @@ namespace Raktárkezelő
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.menuStrip1);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Raktárkezelő";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.menuStrip1.ResumeLayout(false);

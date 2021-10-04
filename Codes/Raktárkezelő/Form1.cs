@@ -82,22 +82,7 @@ namespace Raktárkezelő
                 }
             }
         }
-        private void terKivitButt_Click(object sender, EventArgs e)
-        {
-            DialogResult dialogResult = MessageBox.Show("Biztosan ki szeretné vinni a terméket?", "Termék Kivitele", MessageBoxButtons.YesNo);
-            if (dialogResult == DialogResult.No)
-            {
-                //Do nothing
-            }
-            else if (dialogResult == DialogResult.Yes)
-            {
-
-                TermekKivitele();
-                listaUjraToltes();
-                fajlKiir("termekek_Kiir.txt");
-                terKivitText = null;
-            }
-        }
+        
 
         public void TermekBevitele()
         {
@@ -114,22 +99,7 @@ namespace Raktárkezelő
 
 
         }
-        private void terhozzadButt_Click(object sender, EventArgs e)
-        {
-            DialogResult dialogResult = MessageBox.Show("Biztosan hozzá adja a termékeket?", "Termék bevitel", MessageBoxButtons.YesNo);
-            if (dialogResult == DialogResult.No)
-            {
-                //Do nothing
-            }
-            else if (dialogResult == DialogResult.Yes)
-            {
-
-                TermekBevitele();
-                listaUjraToltes();
-                fajlKiir("termekek_Kiir.txt");
-                terhozzAD = null;
-            }
-        }
+       
 
         private void termékHozzáadásToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
@@ -149,6 +119,40 @@ namespace Raktárkezelő
                 termekTorlese();
                 listaUjraToltes();
                 fajlKiir("termekek_Kiir.txt");
+            }
+        }
+
+        private void terhozzadButt_Click_1(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan hozzá adja a termékeket?", "Termék bevitel", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
+
+                TermekBevitele();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+                terhozzAD = null;
+            }
+        }
+
+        private void terKivitButt_Click_1(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan ki szeretné vinni a terméket?", "Termék Kivitele", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
+
+                TermekKivitele();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+                terKivitText = null;
             }
         }
     }

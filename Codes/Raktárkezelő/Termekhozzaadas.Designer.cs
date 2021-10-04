@@ -130,6 +130,7 @@ namespace Raktárkezelő
             this.Controls.Add(this.termAz);
             this.Controls.Add(this.label1);
             this.Name = "Termekhozzaadas";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Termekhozzaadas";
             this.ResumeLayout(false);
             this.PerformLayout();
