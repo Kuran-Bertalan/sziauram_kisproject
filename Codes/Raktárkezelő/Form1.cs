@@ -44,5 +44,20 @@ namespace Raktárkezelő
             }
             sw.Close();
         }
+        private void termékHozzáadásToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Termekhozzaadas th = new Termekhozzaadas();
+            th.ShowDialog();
+        }
+        public void listaUjraToltes()
+        {
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = termek;
+
+        }
+        public void listahozAdas(Termekek t)
+        {
+            termek.Add(t);
+        }
     }
 }
