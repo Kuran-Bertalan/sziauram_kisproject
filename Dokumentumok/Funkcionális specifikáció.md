@@ -36,6 +36,11 @@ Adatok hozzáadása, törlése, módosítása
 # Fogalomszótár:
 
 # Forgatókönyv:
-- Megnyitja a felhasználó az alkalmazást. -Amennyiben rájogosult személy nyitja meg az alkalmazást, a felhasználói panel teljes hozzáférést biztosít az illetékesnek, és tud termékeket módosítani, törölni, bevinni, illetve kivenni az adott listából.
+- Megnyitja a felhasználó az alkalmazást.
+- Amennyiben rájogosult személy nyitja meg az alkalmazást, a felhasználói panel teljes hozzáférést biztosít az illetékesnek, és tud termékeket módosítani, törölni, bevinni, illetve kivenni az adott listából.
 
 # Funkcionális-Követelmény megfeleltetés:
+- Termék hozzáadása: Egy létező üres vagy bizonyos szintig feltöltött listához képes a felhasználó új terméket név, termékazonosító, termékdarab, termékkategória. 
+- Termék törlése: Egy adott elemet a listából kijelölve ki tud törölni a felhasználó.
+- Termék bevitele: Egy meglévő listaelemhez a felhasználó tud hozzáadni darabszámot a terméknév megadásával.
+- Termék kivétele: Egy meglévő listaelemből a felhasználó el tud távolítani egy általa megadott mennyiséget a terméknév és a darabszám megadásával. 
