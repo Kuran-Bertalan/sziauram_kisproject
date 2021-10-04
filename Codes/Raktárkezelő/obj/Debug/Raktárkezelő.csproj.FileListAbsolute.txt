@@ -19,3 +19,4 @@ C:\Users\User\Desktop\Új mappa (2)\sziauram_kisproject\Codes\Raktárkezelő\obj
 C:\Users\User\Desktop\Új mappa (2)\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\Új mappa (2)\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.exe
 C:\Users\User\Desktop\Új mappa (2)\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.pdb
+C:\Users\zoltán\OneDrive\Dokumentumok\GitRepos\sziauram_kisproject\Codes\Raktárkezelő\obj\Debug\Raktárkezelő.Termekhozzaadas.resources
