@@ -36,5 +36,6 @@ Adatok hozzáadása, törlése, módosítása
 # Fogalomszótár:
 
 # Forgatókönyv:
+- Megnyitja a felhasználó az alkalmazást. -Amennyiben rájogosult személy nyitja meg az alkalmazást, a felhasználói panel teljes hozzáférést biztosít az illetékesnek, és tud termékeket módosítani, törölni, bevinni, illetve kivenni az adott listából.
 
 # Funkcionális-Követelmény megfeleltetés:
