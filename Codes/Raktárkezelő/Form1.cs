@@ -115,5 +115,37 @@ namespace Raktárkezelő
                 terKivitText = null;
             }
         }
+
+        public void TermekBevitele()
+        {
+            // int hozzad = Convert.ToInt32(terhozzAD.Text);
+
+            for (int i = 0; i < termek.Count; i++)
+            {
+                if (dataGridView1.SelectedRows[0].Index == i)
+                {
+                    termek[i].DB += Convert.ToInt32(terhozzAD.Text);
+                    break;
+                }
+            }
+
+
+        }
+        private void terhozzadButt_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan hozzá adja a termékeket?", "Termék bevitel", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
+
+                TermekBevitele();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+                terhozzAD = null;
+            }
+        }
     }
 }
