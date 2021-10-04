@@ -37,6 +37,8 @@ Adatok hozzáadása, törlése, módosítása
 - Adatok módosítása: A kijelölt elemnek a darbaszámát tudjuk növelni a ”Termékek bevitele” gombbal, valamint csökkenteni a darabszámot a ’’Termékek kivitele” gombbal. 
 
 # Fogalomszótár:
+- Form: A felhasználónak megjelenített előkép
+- Datagridview: Termékek listájának megjelenítéséhez alkalmas felület
 
 # Forgatókönyv:
 - Megnyitja a felhasználó az alkalmazást.
