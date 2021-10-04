@@ -12,3 +12,10 @@ Az élelmiszereket és a vegyi árukat külön helyiségben kell raktározni. É
 ## Jelenlegi üzleti folyamatok modellje:
  - A XXI. században sajnos még mindig sokan vannak, akik az ilyen jellegű munkákat papír alapon végzik. Ezek a megoldások nem túl környezetbarátok a mai világban
  - A munkás lassan és nehezen látja át a komissziós listát papíron, ezzel párhuzamosan nő a munkavégzéshez szükséges idő
+## Igényelt üzleti folyamatok: 
+ - A megrendelő kérésére minden munkás lekérheti a teljes raktárkészletet
+## Követelménylista:
+
+## Riportok:
+
+## Fogalomtár:
