@@ -39,7 +39,7 @@
 
 
 
-![](képek/raktár.png)
+![](képek/raktár2.png)
 
 ## Követelmények
 
