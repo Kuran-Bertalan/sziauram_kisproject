@@ -62,20 +62,7 @@ namespace Raktárkezelő
             listaUjraToltes();
         }
 
-        private void termékTörlésToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            DialogResult dialogResult = MessageBox.Show("Biztosan törlöd a terméket?", "Termék törlése", MessageBoxButtons.YesNo);
-            if (dialogResult == DialogResult.No)
-            {
-                //Do nothing
-            }
-            else if (dialogResult == DialogResult.Yes)
-            {
-                termekTorlese();
-                listaUjraToltes();
-                fajlKiir("termekek_Kiir.txt");
-            }
-        }
+       
         public void TermekKivitele()
         {
             int kivon = Convert.ToInt32(terKivitText.Text);
@@ -148,6 +135,21 @@ namespace Raktárkezelő
         {
             Termekhozzaadas th = new Termekhozzaadas();
             th.ShowDialog();
+        }
+
+        private void termékTörlésToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan törlöd a terméket?", "Termék törlése", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
+                termekTorlese();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+            }
         }
     }
 }
