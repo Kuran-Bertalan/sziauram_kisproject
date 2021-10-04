@@ -44,11 +44,7 @@ namespace Raktárkezelő
             }
             sw.Close();
         }
-        private void termékHozzáadásToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Termekhozzaadas th = new Termekhozzaadas();
-            th.ShowDialog();
-        }
+      
         public void listaUjraToltes()
         {
             dataGridView1.DataSource = null;
@@ -146,6 +142,12 @@ namespace Raktárkezelő
                 fajlKiir("termekek_Kiir.txt");
                 terhozzAD = null;
             }
+        }
+
+        private void termékHozzáadásToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            Termekhozzaadas th = new Termekhozzaadas();
+            th.ShowDialog();
         }
     }
 }

@@ -48,6 +48,7 @@ namespace Raktárkezelő
             this.termHozzadButt.TabIndex = 17;
             this.termHozzadButt.Text = "Termék hozzáadása";
             this.termHozzadButt.UseVisualStyleBackColor = true;
+            this.termHozzadButt.Click += new System.EventHandler(this.termHozzadButt_Click_1);
             // 
             // termekDb
             // 

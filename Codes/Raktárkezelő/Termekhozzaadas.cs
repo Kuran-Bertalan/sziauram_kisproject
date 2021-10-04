@@ -23,10 +23,8 @@ namespace Raktárkezelő
         }
 
 
-
-        private void termHozzadButt_Click(object sender, EventArgs e)
+        private void termHozzadButt_Click_1(object sender, EventArgs e)
         {
-
             bool vanE = true;
             foreach (var item in f1.termek)
             {

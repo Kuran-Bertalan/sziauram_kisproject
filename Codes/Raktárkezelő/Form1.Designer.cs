@@ -72,6 +72,7 @@ namespace Raktárkezelő
             this.termékHozzáadásToolStripMenuItem.Name = "termékHozzáadásToolStripMenuItem";
             this.termékHozzáadásToolStripMenuItem.Size = new System.Drawing.Size(169, 24);
             this.termékHozzáadásToolStripMenuItem.Text = "Új termék hozzáadása";
+            this.termékHozzáadásToolStripMenuItem.Click += new System.EventHandler(this.termékHozzáadásToolStripMenuItem_Click_1);
             // 
             // termékTörlésToolStripMenuItem
             // 
