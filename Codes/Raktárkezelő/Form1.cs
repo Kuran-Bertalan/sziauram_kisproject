@@ -59,5 +59,27 @@ namespace Raktárkezelő
         {
             termek.Add(t);
         }
+
+        public void termekTorlese()
+        {
+            termek.RemoveAt(dataGridView1.SelectedRows[0].Index);
+            listaUjraToltes();
+        }
+
+        private void termékTörlésToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult dialogResult = MessageBox.Show("Biztosan törlöd a terméket?", "Termék törlése", MessageBoxButtons.YesNo);
+            if (dialogResult == DialogResult.No)
+            {
+                //Do nothing
+            }
+            else if (dialogResult == DialogResult.Yes)
+            {
+                termekTorlese();
+                listaUjraToltes();
+                fajlKiir("termekek_Kiir.txt");
+            }
+        }
+
     }
 }
