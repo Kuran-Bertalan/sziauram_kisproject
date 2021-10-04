@@ -34,5 +34,15 @@ namespace Raktárkezelő
             }
             sr.Close();
         }
+
+        public void fajlKiir(string kiir)
+        {
+            StreamWriter sw = new StreamWriter("termekek_Kiir.txt");
+            foreach (var item in termek)
+            {
+                sw.WriteLine("{0};{1};{2};{3}", item.TermekAzonosito, item.Nev, item.Kateg, item.DB);
+            }
+            sw.Close();
+        }
     }
 }
