@@ -16,7 +16,7 @@ Az élelmiszereket és a vegyi árukat külön helyiségben kell raktározni. É
  - A megrendelő kérésére minden munkás lekérheti a teljes raktárkészletet
 ## Követelménylista:
 
-##Fogalomtár:
+## Fogalomtár:
  - Raktárkezelő program -- Bolti termékek tárolása egy raktárban
  - Új termék hozzáadása -- Új termék bevitele a táblázatba 
  - Termék törlése -- Meglévő termék kitörlése a táblázatból
